@@ -2,8 +2,8 @@
 A useful wrapper & schema type handler for controlling IP devices that have the WebSocket API installed.
 
 # How To Install NuGet Dependencies
-`Install-Package Newtonsoft.Json -Version 12.0.2`
-`Install-Package WebSocketSharp -Pre`
+- `Install-Package Newtonsoft.Json -Version 12.0.2`
+- `Install-Package WebSocketSharp -Pre`
 
 # How To Start a Socket Server
 ```cs
