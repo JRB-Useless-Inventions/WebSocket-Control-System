@@ -9,9 +9,9 @@ A useful wrapper & schema type handler for controlling IP devices that have the 
 ```cs
 using WebSocket_Master_Server; 
 
-private Socket ss = new Socket(port: 8080);
+Socket ss = new Socket(port: 8080);
 
-this.ss.Start();
+ss.Start();
 ```
 # How To Know When A Client Has Connected
 ```cs
