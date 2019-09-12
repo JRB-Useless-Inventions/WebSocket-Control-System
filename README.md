@@ -111,5 +111,5 @@ namespace MyApplicationNamespace
 
 The output of this `Send` command will look like this
 ```json
-{property : "on"}
+{"property" : "on"}
 ```
