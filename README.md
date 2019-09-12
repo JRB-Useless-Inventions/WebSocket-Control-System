@@ -1,5 +1,8 @@
 # WebSocket-Control-System
 A useful wrapper & schema type handler for controlling IP devices that have the WebSocket API installed.
+At the moment the Server listens for connections on the `<ip-address>/` path.
+
+This module is perfect for Rapsberry PI's running python modules needing WebSocket connectivity.
 
 # How To Install NuGet Dependencies
 - `Install-Package Newtonsoft.Json -Version 12.0.2`
