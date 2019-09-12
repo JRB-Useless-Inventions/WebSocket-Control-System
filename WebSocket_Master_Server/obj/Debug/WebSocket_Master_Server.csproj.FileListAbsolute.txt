@@ -1,0 +1,12 @@
+F:\Active_Projects\WebSocket-Control-System\WebSocket_Master_Server\obj\Debug\WebSocket_Master_Server.csprojAssemblyReference.cache
+F:\Active_Projects\WebSocket-Control-System\WebSocket_Master_Server\obj\Debug\WebSocket_Master_Server.csproj.CoreCompileInputs.cache
+F:\Active_Projects\WebSocket-Control-System\WebSocket_Master_Server\bin\Debug\WebSocket_Master_Server.exe.config
+F:\Active_Projects\WebSocket-Control-System\WebSocket_Master_Server\bin\Debug\WebSocket_Master_Server.exe
+F:\Active_Projects\WebSocket-Control-System\WebSocket_Master_Server\bin\Debug\WebSocket_Master_Server.pdb
+F:\Active_Projects\WebSocket-Control-System\WebSocket_Master_Server\bin\Debug\Newtonsoft.Json.dll
+F:\Active_Projects\WebSocket-Control-System\WebSocket_Master_Server\bin\Debug\websocket-sharp.dll
+F:\Active_Projects\WebSocket-Control-System\WebSocket_Master_Server\bin\Debug\Newtonsoft.Json.xml
+F:\Active_Projects\WebSocket-Control-System\WebSocket_Master_Server\bin\Debug\websocket-sharp.xml
+F:\Active_Projects\WebSocket-Control-System\WebSocket_Master_Server\obj\Debug\WebSocket_Master_Server.csproj.CopyComplete
+F:\Active_Projects\WebSocket-Control-System\WebSocket_Master_Server\obj\Debug\WebSocket_Master_Server.exe
+F:\Active_Projects\WebSocket-Control-System\WebSocket_Master_Server\obj\Debug\WebSocket_Master_Server.pdb
