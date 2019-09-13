@@ -4,6 +4,44 @@ At the moment the Server listens for connections on the `<ip-address>/` path.
 
 This module is perfect for Rapsberry PI's running python modules needing WebSocket connectivity.
 
+# Output Topology
+The desired output of this module is to be in JSON format as it's a widley accpeted file format across almost all internet based applications.
+```json
+{
+	"resource" : "command",
+	args : {
+		"attribute1": "value",
+		"attribute2": "value",
+		"attribute3" : {
+			"attribute3_1" : "value",
+			"attribute3_1" : "value"
+		}
+	}
+}
+```
+Application Example 1
+```
+{
+	"audio" : "play",
+	"args" : {
+		"file" : {
+			"name" : "A_File.mp3"
+		},
+		dsp : {
+			"volume" : 0.85
+		}
+	}
+}
+```
+Application Example 2
+```
+{
+	"lcd" : "show",
+	"args" : {
+		"text" : "Hellow World"
+	}
+}
+```
 # How To Install NuGet Dependencies
 - `Install-Package Newtonsoft.Json -Version 12.0.2`
 - `Install-Package WebSocketSharp -Pre`
