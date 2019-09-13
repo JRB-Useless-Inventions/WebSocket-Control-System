@@ -155,4 +155,4 @@ The output of this `Send` command will look like this
 {"property" : "on"}
 ```
 
-From here the endpoint application will recieve a JSON Object in a similar style to that of the C# Object.
+From here the endpoint application will recieve a JSON Object in a similar style to that of the C# Schema Object.
