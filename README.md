@@ -9,7 +9,7 @@ The desired output of this module is to be in JSON format as it's a widley accpe
 ```json
 {
 	"resource" : "command",
-	args : {
+	"args" : {
 		"attribute1": "value",
 		"attribute2": "value",
 		"attribute3" : {
@@ -20,7 +20,7 @@ The desired output of this module is to be in JSON format as it's a widley accpe
 }
 ```
 Application Example 1
-```
+```json
 {
 	"audio" : "play",
 	"args" : {
@@ -34,7 +34,7 @@ Application Example 1
 }
 ```
 Application Example 2
-```
+```json
 {
 	"lcd" : "show",
 	"args" : {
