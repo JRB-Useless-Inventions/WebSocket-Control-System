@@ -27,7 +27,7 @@ Application Example 1
 		"file" : {
 			"name" : "A_File.mp3"
 		},
-		dsp : {
+		"dsp" : {
 			"volume" : 0.85
 		}
 	}
