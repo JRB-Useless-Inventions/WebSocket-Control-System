@@ -78,7 +78,7 @@ private void connected(Client client)
 This design uses a `Schema` architecture. The `Send` command must recieve an `Object`, in which it converts the `Object` into a JSON Object. This can be any object you like!
 
 ## Schemas
-Any `public` variable in the class will be added to the output. Anything `private` will not be included in the output.
+Any `public` variable in the class will be added to the output. Anything `private` will not be included in the output. It is advised that the scema Object should look like te following.
 ```cs
 /* SCHEMA.cs*/
 using System;
@@ -105,7 +105,7 @@ namespace MyApplicationNamespace
     }
 }
 ```
-
+You simply inherit this Schema in the `namespace` and use it a sa regular object
 ```cs
 /* Program.cs */
 using System;
